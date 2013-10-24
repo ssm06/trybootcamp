@@ -2,9 +2,11 @@
 
 Additonal title
 Some content
+<<<<<<< HEAD
 
 Additing one line of more content
 
 I would like to remove this line
 
 
+=======
